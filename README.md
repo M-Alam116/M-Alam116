@@ -1,7 +1,7 @@
 ![logo](https://github.com/M-Alam116/M-Alam116/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Muhammad Alam</h1>
 <h3 align="center">A passionate Software Engineer and Web Developer from Pakistan</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/34e2391334d75246d9c86c0a470a4b5606ab4dc84fb803930bc89635b4fce9c9/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e676966"/>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-alam116&label=Profile%20views&color=0e75b6&style=flat" alt="m-alam116" /> </p>
 
 <h3 align="left">Connect with me:</h3>
