@@ -1,30 +1,33 @@
 <h1 align="center">Muhammad Alam</h1>
-<h3 align="center">Full-Stack Developer | React.js, Next.js, MERN Stack</h3>
+<h3 align="center">Full Stack Developer | React.js | Next.js | Node.js | TypeScript | MERN</h3>
 
 ---
 
 ## Summary
 
-Full-stack developer with 2+ years of experience building high-performance, scalable web applications. Specialized in React.js and Next.js for dynamic, real-time user interfaces. Experienced in integrating backend services and APIs, including WebSockets, REST APIs, and Node.js, to deliver seamless full-stack solutions. Passionate about writing clean, maintainable code and optimizing frontend performance.
+Full-stack developer with 2+ years of experience building scalable web applications using React.js, Next.js, and Node.js. Skilled in responsive UI development, REST API integration, real-time systems (WebSockets), SQL/NoSQL databases, authentication, and performance optimization. Proficient in modern web architecture and MERN stack. 
 
 ---
 
 ## Tech Stack
 
 **Frontend**  
-React.js, Next.js, TypeScript, Tailwind CSS, Redux Toolkit, UI Libraries, Charting Libraries, Animation Libraries  
+React.js, Next.js, TypeScript, Tailwind CSS, Redux Toolkit, Responsive Design
 
 **Backend**  
-Node.js, Express.js, NestJS, REST APIs, WebSockets (Socket.IO), JWT Authentication  
+Node.js, Express.js, NestJS, REST APIs, WebSockets (Socket.io), JWT Authentication
 
 **Databases**  
-MongoDB, PostgreSQL (Prisma ORM)  
+ PostgreSQL (SQL, Prisma ORM, Indexing, Query Optimization), MongoDB (NoSQL, Aggregation, Indexing) 
 
 **Caching & Queues**  
 Redis, BullMQ  
 
 **DevOps & Tools**  
 Docker, Git, GitHub, GitLab, Postman, Vercel  
+
+**Additional**  
+Data Structures & Algorithms, RESTful API Design, Agile/Scrum, System Design 
 
 ---
 
